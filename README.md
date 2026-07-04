@@ -134,34 +134,3 @@ npm run build
 # Vista previa del build
 npm run preview
 ```
-
-## 📋 Próximas Mejoras
-
-- [ ] Integración con base de datos (Firebase, MongoDB, etc.)
-- [ ] Dashboard con estadísticas y gráficos
-- [ ] Notificaciones de membresías próximas a vencer
-- [ ] Exportar reportes en PDF/Excel
-- [ ] Sistema de pagos
-- [ ] Gestión de asistencias
-- [ ] Roles de usuario (Admin, Recepcionista, etc.)
-
-## 👨‍💻 Desarrollo
-
-Este proyecto está configurado para usar:
-- ESLint para linting
-- Vite HMR para desarrollo rápido
-- Tailwind CSS con configuración personalizada
-
-## 📄 Licencia
-
-Este proyecto es de uso educativo para el Gimnasio Power Gym System.
-
----
-
-Desarrollado para Power Gym System
-
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
