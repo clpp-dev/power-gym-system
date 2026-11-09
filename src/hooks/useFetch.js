@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API_BASE_URL = 'https://backend-power-gym-system.onrender.com/api';
+const API_BASE_URL = 'https://api-powergym.digicoldev.com/api';
 
 /**
  * Hook personalizado para hacer peticiones HTTP a la API
